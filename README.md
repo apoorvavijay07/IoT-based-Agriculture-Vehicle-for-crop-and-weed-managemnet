@@ -1,4 +1,4 @@
-# Ax project
+# Project IoT based Agriculture vehicle for crop and weed management(code-Ax project)
 
 1. About This Code
 The project code consists of two main parts:
